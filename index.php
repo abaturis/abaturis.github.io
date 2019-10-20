@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SSE234</title>
+    <title>SSE123</title>
     <!-- Sedikit style CSS untuk mempercantik tampilan -->
     <style>
         mark {
@@ -14,7 +14,7 @@
 </head>
 <body>
 
-    <h1>SSE (Client)</h1>
+    <h1>SSE PHP(Client)</h1>
 
     <!-- respon data dari server akan ditampilkan disini -->
     <h3 id="data"></h3>
